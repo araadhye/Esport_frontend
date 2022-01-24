@@ -1,1 +1,1 @@
-https://kingshuk01.github.io/Esport-frontend/
+https://araadhye.github.io/Esport-frontend/
